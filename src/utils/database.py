@@ -22,8 +22,8 @@ class MySql:
 
 seven_eleven_database = MySql()
 seven_eleven_database.set_connect(
-    host="order-database-dev.cfpdcop7a57p.ap-northeast-2.rds.amazonaws.com",
-    user="admin",
-    password="Sbqlfflxl10!",
-    database="seven_eleven",
+    host="test.db",
+    user="test",
+    password="test",
+    database="test",
 )
